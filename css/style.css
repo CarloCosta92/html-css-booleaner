@@ -35,3 +35,12 @@
 .lorem {
     background-color: yellow;
 }
+
+.thead {
+    background-color: rgb(140, 208, 247);
+    color: white;
+}
+
+.tr-a {
+    background-color: aqua;
+}
